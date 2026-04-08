@@ -20,6 +20,7 @@ public class Main {
         System.out.println(w);
         String stillStrill = "Jose";
         System.out.println(stillStrill);
+        printGreeting();
 
 
 
@@ -27,6 +28,11 @@ public class Main {
 
 
 
+
+    }
+    public static void printGreeting(){
+        String teacher = "Dave";
+        System.out.println("I am struggling at this "+ teacher);
 
 
     }
